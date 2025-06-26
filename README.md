@@ -1,7 +1,10 @@
-i don't like coding cuz it hurts
+# I don't like coding cuz it hurts
 
-c++
+**C++**
 
-i don't know how to code at all idk why i have a github 
+I don't know how to code at all  
+idk why I have a GitHub
 
-ye we move 
+---
+
+Ye, we move.
