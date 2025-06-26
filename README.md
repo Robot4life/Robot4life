@@ -16,14 +16,21 @@ Ye, we move.
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![GitHub followers](https://img.shields.io/github/followers/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
 ![Profile views](https://komarev.com/ghpvc/?username=Robot4life&style=for-the-badge)  
-
-<br>
-
-### 📊 Stats & Info
-
-| Metric               | Value                                |
-|----------------------|------------------------------------|
-| Total Contributions  | ![Contributions](https://img.shields.io/github/commit-activity/y/Robot4life?style=flat-square) |
-| Average Commits/Week | ![Commits per week](https://img.shields.io/github/commit-activity/m/Robot4life?style=flat-square) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robot4life&layout=compact&hide=html,css&langs_count=5&theme=radical)
 
 </div>
+
+---
+
+## About Me
+
+I don’t like coding because it hurts.  
+I’m not really a coder. I don’t know how to code at all.  
+Honestly, I don’t know why I have a GitHub.  
+Ye, we move.
+
+---
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Robot4life&show_icons=true&count_private=true&theme=radical)
