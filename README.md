@@ -85,7 +85,7 @@ Ye, we move. 💪💯✨🌟💫⭐
 <td align="center" width="50%">
 
 ### 🎵💕 MY EPIC PLAYLIST OF AWESOMENESS 💕🎵
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/hmwos0qby885vgs6j4l5sd8i4)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/Robot4life/goat)
 *Currently jamming to: BABY SHARK DOO DOO DOO* 🦈🎶
 *OR Despacito for the 500th time today!!!* 🎵💃
 
