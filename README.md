@@ -20,6 +20,17 @@ Ye, we move.
 ![Stars](https://img.shields.io/github/stars/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
 ![Forks](https://img.shields.io/github/forks/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
 ![Issues](https://img.shields.io/github/issues/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
-![Last commit](https://img.shields.io/github/last-commit/Robot4life/your-repo?style=for-the-badge&logo=github&logoColor=white)
+![Last commit](https://img.shields.io/github/last-commit/Robot4life/your-repo?style=for-the-badge&logo=github&logoColor=white)  
+
+<br>
+
+### 📊 Stats & Info
+
+| Metric               | Value                       |
+|----------------------|-----------------------------|
+| Total Contributions  | ![Contributions](https://img.shields.io/github/commit-activity/y/Robot4life?style=flat-square) |
+| Popular Repo         | [your-repo](https://github.com/Robot4life/your-repo) (replace with real repo) |
+| Languages Used       | ![Languages](https://img.shields.io/github/languages/top/Robot4life/your-repo?style=flat-square) |
+| Average Commits/Week | ![Commits per week](https://img.shields.io/github/commit-activity/m/Robot4life?style=flat-square) |
 
 </div>
