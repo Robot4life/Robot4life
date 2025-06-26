@@ -34,3 +34,9 @@ Ye, we move.
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Robot4life&show_icons=true&count_private=true&theme=radical)
+
+---
+
+## Contact
+
+[![Discord](https://img.shields.io/badge/Discord-Robot4life-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/536293093734088724)
