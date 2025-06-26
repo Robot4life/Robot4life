@@ -14,8 +14,12 @@ Ye, we move.
 <div align="center">
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=for-the-badge)  
-![Repositories](https://img.shields.io/github/repos/your-username?style=for-the-badge)  
-![Profile views](https://komarev.com/ghpvc/?username=Robot4life&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
+![Repositories](https://img.shields.io/github/repos/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
+![Profile views](https://komarev.com/ghpvc/?username=Robot4life&style=for-the-badge)  
+![Stars](https://img.shields.io/github/stars/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
+![Forks](https://img.shields.io/github/forks/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
+![Issues](https://img.shields.io/github/issues/Robot4life?style=for-the-badge&logo=github&logoColor=white)  
+![Last commit](https://img.shields.io/github/last-commit/Robot4life/your-repo?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
