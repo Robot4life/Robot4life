@@ -1,4 +1,33 @@
-Hi Im Robot4life
+# robot4life
 
-![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com)
+Learning C++ and getting into reverse engineering.
+
+---
+
+## Focus Areas
+
+- C++ fundamentals  
+- Reverse engineering basics  
+- Static analysis and debugging  
+- Low-level code understanding
+
+---
+
+## Tools of Interest
+
+- IDA Free / Ghidra  
+- x64dbg / OllyDbg  
+- Cheat Engine  
+- Visual Studio / VS Code
+
+---
+
+## Tech
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+---
+
+## Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/your-discord-id?hideDiscriminators=true&idleMessage=Offline)](https://discord.com/users/your-discord-id)
