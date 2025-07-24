@@ -1,35 +1,22 @@
-# robot4life
+<div align="center">
 
-Learning C++ and getting into reverse engineering.
+  <h1>robot4life</h1>
 
----
+  <p>C++ developer focused on reverse engineering and learning.</p>
 
-## Focus Areas
+  <!-- C++ Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="80" style="margin: 10px;" />
 
-- C++ fundamentals  
-- Reverse engineering basics  
-- Static analysis and debugging  
-- Low-level code understanding
+  <br />
 
----
+  <!-- Tech badges -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" style="margin: 5px;" />
 
-## Tools of Interest
+  <br />
 
-- IDA Free / Ghidra  
-- x64dbg / OllyDbg  
-- Cheat Engine  
-- Visual Studio / VS Code
+  <!-- Discord Presence -->
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/your-discord-id?hideDiscriminators=true&idleMessage=Offline" alt="Discord Presence" style="margin-top: 15px;" />
+  </a>
 
----
-
-## Tech
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
-
-
-
----
-
-## Discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/your-discord-id?hideDiscriminators=true&idleMessage=Offline)](https://discord.com/users/your-discord-id)
+</div>
