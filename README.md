@@ -24,7 +24,8 @@ Learning C++ and getting into reverse engineering.
 
 ## Tech
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
+
 
 
 ---
